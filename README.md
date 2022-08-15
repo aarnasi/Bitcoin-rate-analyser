@@ -1,7 +1,7 @@
 # Bitcoin-rate-analyser
 Application to fectch current Bitcoin rate for a currenc and minimum and maxminum Bitcoin rate for a currency over a period of time which is configurable.
 
-User is promoted to enter teh currency code for which the Bitcoin rate is expected.
+User is promoted to enter the currency code for which the Bitcoin rate is expected.
 --------------------------------------------------------------------------------------------------------------------
 Sample output:
 
