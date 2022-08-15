@@ -1,5 +1,5 @@
 # Bitcoin-rate-analyser
-Application to fectch current Bitcoin rate for a currenc and minimum and maxminum Bitcoin rate for a currency over a period of time.
+Application to fectch current Bitcoin rate for a currenc and minimum and maxminum Bitcoin rate for a currency over a period of time which is configurable.
 
 User is promoted to enter teh currency code for which the Bitcoin rate is expected.
 --------------------------------------------------------------------------------------------------------------------
@@ -25,6 +25,8 @@ n
 
 Bitcoin Rate Application closed
 
+-------------------------------------------------------------------------------------------------------------------------
+Historical period can be confuired via updating Contants.HISTORICAL_DAY_COUNT variable. 
 -------------------------------------------------------------------------------------------------------------------------
 Steps to run the application using an IDE:
 
