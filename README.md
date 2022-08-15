@@ -26,8 +26,6 @@ n
 Bitcoin Rate Application closed
 
 -------------------------------------------------------------------------------------------------------------------------
-Historical period can be confuired via updating Contants.HISTORICAL_DAY_COUNT variable. 
--------------------------------------------------------------------------------------------------------------------------
 Steps to run the application using an IDE:
 
  1. Import the project in any of the java supported IDEs
@@ -65,7 +63,12 @@ Build:
 Run: 
 
 2. sudo docker run -it bitcoin-rate-fetcher:latest
--------------------------------------------------------------------------------------------------------------------------
 
-Dockerhub link: https://hub.docker.com/r/nitin8717/bitcoin/tags
+-------------------------------------------------------------------------------------------------------------------------
+Dockerhub
+
+Repo Link: https://hub.docker.com/r/nitin8717/bitcoin/tags
+
+Note: Historical period can be configured via updating Contants.HISTORICAL_DAY_COUNT variable. 
+
 
